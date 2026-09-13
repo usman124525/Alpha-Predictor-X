@@ -1,0 +1,6 @@
+{
+  "name": "Alpha Predictor X",
+  "description": "Alpha Predictor X - Premier PUBG MOBILE esports platform hosting competitive scrims, tournaments, team rosters, registration, and live leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
